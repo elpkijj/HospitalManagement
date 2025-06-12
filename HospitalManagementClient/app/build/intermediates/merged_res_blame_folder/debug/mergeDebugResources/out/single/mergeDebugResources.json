@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_item_doctor_list_view.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\item_doctor_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_doctor_male.jpg.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\doctor_male.jpg"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_login_rig_bg.png.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\login_rig_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_item_time_list_view.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\item_time_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_query.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\query.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_item_depart_list_view.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\item_depart_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_item_payment_list_view.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\item_payment_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_depart_img.png.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\depart_img.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_item_myinfo_list_view.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\item_myinfo_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_information.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_appointment.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\appointment.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_doctor.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_index_bg.png.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\index_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_appointment.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_payment.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\payment.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_bg.png.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_me_img.png.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\me_img.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_launch.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.hospitalmanagement.app-debug-31:/layout_activity_payment.xml.flat",
+        "source": "com.example.hospitalmanagement.app-main-33:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_choose_doctor.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_choose_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_confirm_appoint.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_confirm_appoint.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_doctor_female.jpg.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\doctor_female.jpg"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_my_info.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_my_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-debug-31:\\drawable_btn_back.png.flat",
+        "source": "C:\\Users\\刘佳莉\\.gradle\\daemon\\8.7\\com.example.hospitalmanagement.app-main-33:\\drawable\\btn_back.png"
+    },
+    {
+        "merged": "com.example.hospitalmanagement.app-debug-31:/layout_item_payment_list_view.xml.flat",
+        "source": "com.example.hospitalmanagement.app-main-33:/layout/item_payment_list_view.xml"
+    }
+]
